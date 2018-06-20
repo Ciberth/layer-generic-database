@@ -14,5 +14,9 @@ provides:
 requires:
   pgsqldb:
     interface: pgsql
-  mysqldb:
+  mysql-shared:
+    interface: mysql-shared
+  mysql-root:
     interface: mysql-root
+  mongodb:
+    interface: mongodb

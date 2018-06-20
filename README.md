@@ -1,12 +1,11 @@
 # Generic-database
 
-
+See other repo [https://github.com/Ciberth/gdb-use-case](https://github.com/Ciberth/gdb-use-case) for more information!
 
 
 
 ## Overview of interesting/used links & documentation
 
-(TODO updating LINKS)
 
 - [Consumer-app](https://github.com/Ciberth/consumer-app)
 - [Generic-database charm](https://github.com/Ciberth/generic-database) (this repository)

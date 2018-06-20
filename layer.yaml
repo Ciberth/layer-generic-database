@@ -1,2 +1,2 @@
-includes: ['layer:basic', 'layer:apache-php', 'interface:generic-database', 'interface:mysql-root', 'interface:pgsql']
+includes: ['layer:basic', 'layer:apache-php', 'interface:generic-database', 'interface:mysql-root', 'interface:pgsql', 'interface:mysql-shared', 'interface:mongodb']
 repo: "https://github.com/Ciberth/generic-database.git"
